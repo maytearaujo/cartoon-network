@@ -2,6 +2,7 @@
 
 Projeto desenvolvido em React + Vite durante as aulas do Vai Na Web
 
+https://cartoon-network-xi.vercel.app/
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
